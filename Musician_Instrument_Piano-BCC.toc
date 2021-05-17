@@ -1,0 +1,13 @@
+## Interface: 20501
+## Title: Musician Instrument: Piano
+## Author: LenweSaralonde
+## Version: 1.2.0
+## RequiredDeps: Musician
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Add the piano instrument to Musician
+
+constants\Musician.Instruments.lua
+constants\Musician.MidiMapping.lua
+
+locale\locale.xml
