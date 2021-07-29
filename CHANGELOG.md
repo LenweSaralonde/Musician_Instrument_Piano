@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v1.2.1
+------
+* Dummy version bump to force refresh CurseForge's client API.
+
 v1.2.0
 ------
 * Unified version for Retail, Classic and Burning Crusade Classic.
