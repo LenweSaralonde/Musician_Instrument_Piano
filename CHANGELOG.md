@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v1.2.2
+------
+* TOC bump for WoW Classic Era 1.14 and BC Classic 2.5.2.
+
 v1.2.1
 ------
 * Dummy version bump to force refresh CurseForge's client API.
