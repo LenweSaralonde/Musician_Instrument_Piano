@@ -1,7 +1,7 @@
 ## Interface: 11401
 ## Title: Musician Instrument: Piano
 ## Author: LenweSaralonde
-## Version: 1.2.3
+## Version: 1.2.4
 ## RequiredDeps: Musician
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
