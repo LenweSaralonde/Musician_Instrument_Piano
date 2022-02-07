@@ -1,5 +1,10 @@
 Musician Piano
 ==============
+> ## Deprecation notice
+> This plugin is now **deprecated** since Musician now includes the piano as a standard instrument.
+>
+> **You can uninstall Musician_Instrument_Piano if you run Musician version 1.9 or higher.**
+
 This plugin adds a piano instrument to [Musician](https://github.com/LenweSaralonde/Musician), based on the legendary Yamaha C7 Grand Piano.
 
 [![WoW Musician piano in-game demo](https://i.ytimg.com/vi/GMM1SbUwhxg/maxresdefault.jpg)](https://youtu.be/GMM1SbUwhxg)
