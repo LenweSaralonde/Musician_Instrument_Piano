@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v2.0.0
+------
+* The piano has been included in Musician 1.9. This plugin is now deprecated.
+
 v1.2.4
 ------
 * TOC bump for WoW Classic Era 1.14.1.
